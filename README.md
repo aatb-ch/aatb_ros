@@ -21,7 +21,7 @@ Trying to compile some notes and references on ROS and robots we use, work in pr
 - https://github.com/ldrobotSensorTeam/ldlidar_ros/
 
 # Ultrasound Beacons
-- [Marvelmind](https://marvelmind.com/)
+- [Marvelmind](https://marvelmind.com/) Super Beacon + Mini-TX
 
 # SLAM
 - VIO [SVO Pro](ros/svo.md)
