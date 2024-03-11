@@ -2,10 +2,10 @@
 Trying to compile some notes and references on ROS and robots we use, work in progress.
 
 # Robots
-- ABB IRB4600-20-250
-- ABB IRB2400-16
-- Kuka KR30A
-- Universal Robots UR10
+- ABB IRB4600-20-250 IRC5 + EGM + SafeMove 2 Pro
+- ABB IRB2400-16 S4C+
+- Kuka KR30A KRC2 ed2005 + RSI
+- Universal Robots UR10 CB3/3.1
 - Universal Robots UR10e
 - Unitree Go1 Pro
 
